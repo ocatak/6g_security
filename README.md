@@ -1,5 +1,5 @@
 # 6G Security Research
-Our 6G Security research outputs. We will share our papers and implementation to demonstrate the security vulnerabilities of deep learning based 6G solutions and their mitigation methods.
+Our 6G Security research outputs. 6G and Security repository for telecommunications and AI research. We will share our implementations and publications in 5G and beyond technology, 6G, Security, Machine learning on 6G, Massive MIMO, THz communication and communication networks.
 
 ## Publications
 The details of our **6G security** research are published in following the papers:
